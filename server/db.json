@@ -1,0 +1,7 @@
+{
+    "contacts": [
+        { "id": 1, "name": "Micah Oriaso", "email": "moriaso@contactful.com", "phone": "+254789556785" },
+        { "id": 2, "name": "Tyrone Bliss", "email": "tbliss@contactful.com", "phone": "+254789986725" },
+        { "id": 3, "name": "Gill Sneeze", "email": "gsneeze@contactful.com", "phone": "+254789556785" }
+      ]
+}
